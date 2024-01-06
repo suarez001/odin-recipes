@@ -2,11 +2,11 @@
 
 # Project Name
 
-> One paragraph statement about the project.
+> odin-recipes
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+
 
 ## Built With
 
@@ -43,17 +43,11 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Arístides José Molina Pérez**
+👤 **Andres Ricardo Suarez Gomez**
 
-- GitHub: [@aristides1000](https://github.com/aristides1000)
-- Twitter: [@aristides_1000](https://twitter.com/aristides_1000)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristides-molina/)
+- GitHub: [@suarez001](https://github.com/suarez001)
+- Twitter: [@suarez46027](https://twitter.com/suarez46027)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
